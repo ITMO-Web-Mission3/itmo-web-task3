@@ -1,7 +1,7 @@
 # itmo-web-task2
 # Mission 2
 ## Part 0
-
+https://disk.yandex.ru/d/Owb1swr3Ys9Mcg
 ## Part1
 
 - Вопрос 1	 
